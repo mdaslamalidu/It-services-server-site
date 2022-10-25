@@ -1,34 +1,30 @@
 [
     {
         "id": "01",
-        "name": "Bangla Medium"
+        "name": "Programming"
     },
     {
         "id": "02",
-        "name": "English Medium"
+        "name": "Web Development"
     },
     {
         "id": "03",
-        "name": "English Version"
+        "name": "Web design"
     },
     {
         "id": "04",
-        "name": "Science"
+        "name": "Grafics Design"
     },
     {
         "id": "05",
-        "name": "Commerce"
+        "name": "Digital Marketing"
     },
     {
         "id": "06",
-        "name": "Admission"
-    },
-    {
-        "id": "07",
-        "name": "IELTS"
+        "name": "Video Editing"
     },
     {
         "id": "08",
-        "name": "All Classes"
+        "name": "All Courses"
     }
 ]
