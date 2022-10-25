@@ -5,7 +5,8 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const classess = require("./data/classes.json");
+
+const courses = require("./data/classes.json");
 const category = require("./data/category.json");
 
 
@@ -17,9 +18,19 @@ app.get("/category", (req,res) => {
     res.send(category)
 })
 
-app.get("/classes", (req,res) => {
-    res.send(classess)
+app.get("/category/:id", (req,res) => {
+    const id = req.params.id;
+    if(id === "07"){
+        res.send(courses)
+    }
+    const selecdetId = courses.filter(course => course.category_id === id);
+    res.send(selecdetId)
 })
+
+app.get("/courses", (req,res) => {
+    res.send(courses)
+})
+
 
 app.listen(port, () => {
     console.log(`website is running on port ${port}`)
