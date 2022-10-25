@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Bangla Medium"
+    },
+    {
+        "id": "02",
+        "name": "English Medium"
+    },
+    {
+        "id": "03",
+        "name": "English Version"
+    },
+    {
+        "id": "04",
+        "name": "Science"
+    },
+    {
+        "id": "05",
+        "name": "Commerce"
+    },
+    {
+        "id": "06",
+        "name": "Admission"
+    },
+    {
+        "id": "07",
+        "name": "IELTS"
+    },
+    {
+        "id": "08",
+        "name": "All Classes"
+    }
+]

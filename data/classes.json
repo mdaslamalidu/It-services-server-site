@@ -1,0 +1,671 @@
+[
+    {
+        "_id": "0282e0e5891c404fbd15261f11c2ab32",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "English Version"
+        },
+        "category_id": "03",
+        "subject": [
+            "H. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 10000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "English Version",
+        "Requierment": "English Version background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Mirpur 13, Dhaka",
+        "img": "https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/finances-banner-hex.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c45b92",
+        "others_info": {
+            "class": "Class 9",
+            "Category": "English Version"
+        },
+        "category_id": "03",
+        "subject": [
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 9000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "English Version",
+        "Requierment": "English Verstion background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Mirpur 1, Dhaka",
+        "img": "https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/finances-banner-hex.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c45b32",
+        "others_info": {
+            "class": "Class 11",
+            "Category": "English Version"
+        },
+        "category_id": "03",
+        "subject": [
+            "H. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 13000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "English Version",
+        "Requierment": "DU Math English Version background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Mirpur 12, Dhaka",
+        "img": "https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/finances-banner-hex.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab83",
+        "others_info": {
+            "class": "Class 4",
+            "Category": "English Version"
+        },
+        "category_id": "03",
+        "subject": [
+            "Bangla",
+            "English"
+        ],
+        "days": "3",
+        "salary": 6000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "English Version",
+        "Requierment": "English Version background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Mirpur 2, Dhaka",
+        "img": "https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/finances-banner-hex.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab64",
+        "others_info": {
+            "class": "Class 11",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "H. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "DU Math background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi 2, Dhaka",
+        "img": "https://uwaterloo.ca/future-students/sites/ca.future-students/files/uploads/images/finances-banner-hex.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab54",
+        "others_info": {
+            "class": "Class 9",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "H. Math",
+            "Physics"
+        ],
+        "days": "3",
+        "salary": 7000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "DU Math background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi 10, Dhaka",
+        "img": "https: //www.chcp.edu/new-images/chcp-tuition-cost.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab89",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "H. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Science",
+        "Requierment": "DU Math background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Dhanmondi 8, Dhaka",
+        "img": "https: //www.chcp.edu/new-images/chcp-tuition-cost.jpg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "H. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "DU Math background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi 4, Dhaka",
+        "img": "https: //www.chcp.edu/new-images/chcp-tuition-cost.jpg"
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "class": "Class 9",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "G. Math",
+            "Physics",
+            "chemistry"
+        ],
+        "days": "3",
+        "salary": 7000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Science",
+        "Requierment": "DU Math background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Dhanmondi 1, Dhaka",
+        "img": "https: //www.chcp.edu/new-images/chcp-tuition-cost.jpg"
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "Science"
+        },
+        "category_id": "04",
+        "subject": [
+            "G. Math",
+            "Physics"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "DU Science background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Mohakhali, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "class": "Class 11",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "English",
+            "Bangla"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Jigatola, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+            "class": "Class 3",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "English",
+            "Bangla"
+        ],
+        "days": "3",
+        "salary": 3000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Pilkhana, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "English",
+            "Bangla"
+        ],
+        "days": "3",
+        "salary": 6000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Jigatola, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "others_info": {
+            "class": "Class 5",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "All"
+        ],
+        "days": "3",
+        "salary": 5000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi 2, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "others_info": {
+            "class": "Class 6",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "English",
+            "Bangla",
+            "Math"
+        ],
+        "days": "3",
+        "salary": 5000,
+        "time": "6.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Dhanmondi 3, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "others_info": {
+            "class": "HSC 1st Year",
+            "Category": "Bangla"
+        },
+        "category_id": "01",
+        "subject": [
+            "English",
+            "Bangla"
+        ],
+        "days": "3",
+        "salary": 5000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Bangla Medium",
+        "Requierment": "DU English background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "wari, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "others_info": {
+            "class": "class 9",
+            "Category": "IELTS"
+        },
+        "category_id": "06",
+        "subject": [
+            "English",
+            "spoken",
+            "Writting",
+            "Reading"
+        ],
+        "days": "3",
+        "salary": 12000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "English",
+        "Requierment": "English Medium background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "kolabagan, Dhaka",
+        "img": "https://images.indianexpress.com/2018/02/exam-student75911.jpg"
+    },
+    {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "others_info": {
+            "class": "HSC 1st Year",
+            "Category": "IELTS"
+        },
+        "category_id": "06",
+        "subject": [
+            "English",
+            "spoken",
+            "Writting",
+            "Reading"
+        ],
+        "days": "3",
+        "salary": 12000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "English",
+        "Requierment": "English Medium background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "others_info": {
+            "class": "HSC 2nd Year",
+            "Category": "IELTS"
+        },
+        "category_id": "06",
+        "subject": [
+            "English",
+            "spoken",
+            "Writting",
+            "Reading"
+        ],
+        "days": "2",
+        "salary": 10000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "English",
+        "Requierment": "English Medium background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Katabon, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "7c4dfea0fafddc813673282a428429b7",
+        "others_info": {
+            "class": "Standard 9",
+            "Category": "English Medium"
+        },
+        "category_id": "02",
+        "subject": [
+            "physics",
+            "chemistry",
+            "Math"
+        ],
+        "days": "3",
+        "salary": 10000,
+        "time": "7.00 pm",
+        "student_gender": "male",
+        "Curriculum": "British",
+        "Requierment": "British background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Katabon, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+        "others_info": {
+            "class": "O Level",
+            "Category": "English Medium"
+        },
+        "category_id": "02",
+        "subject": [
+            "Maths B"
+        ],
+        "days": "3",
+        "salary": 10000,
+        "time": "5.00 pm",
+        "student_gender": "male",
+        "Curriculum": "British",
+        "Requierment": "British background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Dhanmondi, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "df11ff9feefc37613cc3a4486ce02151",
+        "others_info": {
+            "class": "A Level ( AS )",
+            "Category": "English Medium"
+        },
+        "category_id": "02",
+        "subject": [
+            "Physics"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Cambridge",
+        "Requierment": "Canmbridge background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Mohammadpur, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "919db97c34e0778b387dd40cdfa08130",
+        "others_info": {
+            "class": "Class 11",
+            "Category": "Commerce"
+        },
+        "category_id": "05",
+        "subject": [
+            "Accounting",
+            "finance"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "7.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Commerce",
+        "Requierment": "Commerce background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Hazaribug, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+        "others_info": {
+            "class": "Class 10",
+            "Category": "Commerce"
+        },
+        "category_id": "05",
+        "subject": [
+            "English",
+            "Accounting",
+            "finance"
+        ],
+        "days": "3",
+        "salary": 6000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Commerce",
+        "Requierment": "Du Commerce tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Shahbag, Dhaka",
+        "img": "https://assets-global.website-files.com/5f1552ff91fad9c52e1c1016/5f73b1cc052b442bb63f81ec_abm-college-international-student-tution-cost-1366x475.jpg"
+    },
+    {
+        "_id": "acb9b6785b62698fc6130db7615965e1",
+        "others_info": {
+            "class": "Class 12",
+            "Category": "Commerce"
+        },
+        "category_id": "05",
+        "subject": [
+            "English",
+            "Accounting"
+        ],
+        "days": "4",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Commerce",
+        "Requierment": "Du Commerce tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Kollanpur, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "be44c843d61859cc0b87cae85c55f9db",
+        "others_info": {
+            "class": "Class 11",
+            "Category": "Commerce"
+        },
+        "category_id": "05",
+        "subject": [
+            "English",
+            "Accounting",
+            "Finance",
+            "management"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Commerce",
+        "Requierment": "Commerce background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "cantonment, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "1b03149c50f1bec662062d930bf46489",
+        "others_info": {
+            "class": "Cadet Admission Help",
+            "Category": "Admission"
+        },
+        "category_id": "07",
+        "subject": [
+            "Bangla",
+            "ICT",
+            "Math",
+            "English"
+        ],
+        "days": "3",
+        "salary": 8000,
+        "time": "4.00 pm",
+        "student_gender": "female",
+        "Curriculum": "Science",
+        "Requierment": "Buet experienced tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Motijhil, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "7f5b80c1cdd4df0111918883eae07349",
+        "others_info": {
+            "class": "IBA Admission Test",
+            "Category": "Admission"
+        },
+        "category_id": "07",
+        "subject": [
+            "Analytical Ability",
+            "Math"
+        ],
+        "days": "3",
+        "salary": 10000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "IBA background tutors are cordially invited to apply",
+        "tutor_gender": "male",
+        "location": "Ajimpur, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "others_info": {
+            "class": "Medical College Admission Test",
+            "Category": "Admission"
+        },
+        "category_id": "07",
+        "subject": [
+            "physics",
+            "chemistry",
+            "biology"
+        ],
+        "days": "3",
+        "salary": 10000,
+        "time": "6.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Science",
+        "Requierment": "Medical background tutors are cordially invited to apply",
+        "tutor_gender": "male",
+        "location": "Savar, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+        "others_info": {
+            "class": "Class 9",
+            "Category": "Commerce"
+        },
+        "category_id": "05",
+        "subject": [
+            "English",
+            "Accounting",
+            "Finance"
+        ],
+        "days": "4",
+        "salary": 8000,
+        "time": "8.00 pm",
+        "student_gender": "male",
+        "Curriculum": "Commerce",
+        "Requierment": "Commerce background tutors are requested to apply",
+        "tutor_gender": "male",
+        "location": "Malibug, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    },
+    {
+        "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "others_info": {
+            "class": "Standard 3",
+            "Category": "English Medium"
+        },
+        "category_id": "02",
+        "subject": [
+            "English",
+            "Math"
+        ],
+        "days": "4",
+        "salary": 8000,
+        "time": "5.00 pm",
+        "student_gender": "female",
+        "Curriculum": "English Medium",
+        "Requierment": "O/A level background tutors are requested to apply",
+        "tutor_gender": "female",
+        "location": "Mohammadpur, Dhaka",
+        "img": "https://erpcollege.ca/wp-content/uploads/2020/11/Finance.jpg"
+    }
+]
