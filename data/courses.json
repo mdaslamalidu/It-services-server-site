@@ -5,7 +5,9 @@
         "title": "Java is a popular programming language.",
         "name": "Java",
         "desc": "Java is an object oriented language and some concepts may be new. Take breaks when needed, and go over the examples as many times as needed. Java can help reduce costs, drive innovation, & improve application services; the #1 programming language for IoT, enterprise architecture.",
-        "img": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg"
+        "img": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+        "price" : "15",
+        "duration" : "12"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c45b92",
@@ -13,7 +15,9 @@
         "title": "JavaScript is the programming language of the Web.",
         "name": "Javascript",
         "desc": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrltazgA2PN1iVP6HgNR8G8WEs9hbrhp5QHA&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrltazgA2PN1iVP6HgNR8G8WEs9hbrhp5QHA&usqp=CAU",
+        "price": "12",
+        "duration": "6"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c45b32",
@@ -21,7 +25,9 @@
         "title": "Python is a high-level, general-purpose programming language.",
         "name": "python",
         "desc": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. This includes partial IntelliSense for open files in the editor. Installed extensions. The Python extension will automatically install the Pylance,",
-        "img": "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png"
+        "img": "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png",
+        "price": "10",
+        "duration": "6"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab83",
@@ -29,7 +35,9 @@
         "title": "Web Development",
         "name": "Desktop Aplication",
         "desc": "A single-user computer. It typically refers to a Windows PC or Mac, but may also refer to a Linux PC. Also called a client computer or client or simply a desktop.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl64vFmRKbWigk2KAVXgJFj0DKJwXwRPxIPw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl64vFmRKbWigk2KAVXgJFj0DKJwXwRPxIPw&usqp=CAU",
+        "price": "15",
+        "duration": "10"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab64",
@@ -37,7 +45,9 @@
        "title": "Web Development",
        "name": "Mobile Aplication",
        "desc": "A software application that runs in a smartphone or tablet. The distribution of mobile apps is via the platform's app store. Contrast with desktop application. See native mobile app, mobile version and online app store.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2zSj-I62SaFLRYEsmNHh9YyYSPZpMxuhkg&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2zSj-I62SaFLRYEsmNHh9YyYSPZpMxuhkg&usqp=CAU",
+        "price": "12",
+        "duration": "8"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab54",
@@ -45,7 +55,9 @@
         "title": "Web Design",
         "name": "Desktop Design",
         "desc":"Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTPughndzjP3Iy3NPqi0hsm_4uoiaYuzmFw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTPughndzjP3Iy3NPqi0hsm_4uoiaYuzmFw&usqp=CAU",
+        "price": "10",
+        "duration": "6"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab89",
@@ -53,7 +65,9 @@
         "title" : "Web Design",
         "name" : "Mobile Design",
         "desc" : "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYHC2nPCW44OydEa_itYjL2h2LFKHNAHWXqQ&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYHC2nPCW44OydEa_itYjL2h2LFKHNAHWXqQ&usqp=CAU",
+        "price": "20",
+        "duration": "8"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
@@ -61,7 +75,9 @@
         "title" : "Graphic design is an interdisciplinary branch of design",
         "name" : "Grapic Design",
         "desc" : "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users’ specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEC8NTo7SbVwYGadDp_vJdHPsZa-RSoy2HA&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEC8NTo7SbVwYGadDp_vJdHPsZa-RSoy2HA&usqp=CAU",
+        "price": "25",
+        "duration": "10"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
@@ -69,7 +85,9 @@
         "title" : "Onlice MarketPlace",
         "name" : "Digital Marketing",
         "desc" : "Expanding international sales is a key strategy for growth, and marketplaces help retailers achieve this. However, smaller local marketplaces often go unnoticed despite offering unique opportunities to reach new markets and customers.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsQVLg6KVjrsd143U6RMIGYYeX81QhOsUeg&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsQVLg6KVjrsd143U6RMIGYYeX81QhOsUeg&usqp=CAU",
+        "price": "20",
+        "duration": "10"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -77,7 +95,9 @@
         "title" : "Local Market Place",
         "name" : "Digital Marketing",
         "desc" : "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfzRFDJ9tkTNDDaTjN3qCbbXrF015H20gRQ&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfzRFDJ9tkTNDDaTjN3qCbbXrF015H20gRQ&usqp=CAU",
+        "price": "15",
+        "duration": "8"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
@@ -85,7 +105,9 @@
          "title" : "Video Editing Tutorial",
          "name" : "Video Editing",
           "desc" : "Create professional quality social media ads, promos videos and much more for your business with InVideo's online video editor. With 5000+ easy-to-edit templates, bundled stock media & music and intuitive editing you'll create more videos, more quickly than ever before.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmCY9PIrN8FuCSBHJSoII0ZMST1cTEenCVA&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmCY9PIrN8FuCSBHJSoII0ZMST1cTEenCVA&usqp=CAU",
+        "price": "22",
+        "duration": "10"
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
@@ -93,6 +115,8 @@
         "title" : "Video Editing Tutorial for All",
         "name" : "Video Editing",
         "desc" : "Create professional quality social media ads, promos videos and much more for your business with InVideo's online video editor. With 5000+ easy-to-edit templates, bundled stock media & music and intuitive editing you'll create more videos, more quickly than ever before.",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBu9aF53K8thEj5-12Sv_JMQHQ_B97yKobQ&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBu9aF53K8thEj5-12Sv_JMQHQ_B97yKobQ&usqp=CAU",
+        "price": "25",
+        "duration": "8"
     }
 ]
