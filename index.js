@@ -18,15 +18,6 @@ app.get("/category", (req,res) => {
     res.send(category)
 })
 
-app.get("/category/:id", (req,res) => {
-    const id = req.params.id;
-    if(id === "07"){
-        res.send(courses)
-    }
-    const selecdetId = courses.filter(course => course.category_id === id);
-    res.send(selecdetId)
-})
-
 app.get("/courses", (req,res) => {
     res.send(courses)
 })
@@ -37,7 +28,6 @@ app.get("/singleCourse/:id", (req,res) => {
     res.send(selectedId)
 })
 
-app.get("/")
 
 app.listen(port, () => {
     console.log(`website is running on port ${port}`)
