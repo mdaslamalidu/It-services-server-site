@@ -30,6 +30,6 @@ app.get("/singleCourse/:id", (req,res) => {
 
 
 app.listen(port, () => {
-    console.log(`website is running on port ${port}`)
+    console.log(`It survices courses is running on port ${port}`)
 })
 
