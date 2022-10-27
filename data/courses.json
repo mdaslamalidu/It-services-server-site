@@ -1,8 +1,8 @@
 [
     {
         "_id": "0282e0e5891c404fbd15261f11c2ab32",
-        "title": "Java is a popular programming language.",
-        "name": "Java",
+        "title": "Only For Java Programming",
+        "name": "programming course",
         "desc": "Java is an object oriented language and some concepts may be new. Take breaks when needed, and go over the examples as many times as needed. Java can help reduce costs, drive innovation, & improve application services; the #1 programming language for IoT, enterprise architecture.",
         "img": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
         "price" : "15",
@@ -11,8 +11,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab83",
         "category_id": "02",
-        "title": "Web Development",
-        "name": "Desktop Aplication",
+        "title": "Easy Way For Web Journey",
+        "name": "Web Development course",
         "desc": "A single-user computer. It typically refers to a Windows PC or Mac, but may also refer to a Linux PC. Also called a client computer or client or simply a desktop.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl64vFmRKbWigk2KAVXgJFj0DKJwXwRPxIPw&usqp=CAU",
         "price": "15",
@@ -21,8 +21,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab54",
         "category_id": "03",
-        "title": "Web Design",
-        "name": "Desktop Design",
+        "title": "Web Design With Responsive",
+        "name": "Web Design Course",
         "desc":"Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTPughndzjP3Iy3NPqi0hsm_4uoiaYuzmFw&usqp=CAU",
         "price": "10",
@@ -31,8 +31,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "category_id": "04",
-        "title" : "Graphic design is an interdisciplinary branch of design",
-        "name" : "Grapic Design",
+        "title" : "Graphic and UI/UX Design",
+        "name" : "Grapic Design Course",
         "desc" : "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users’ specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEC8NTo7SbVwYGadDp_vJdHPsZa-RSoy2HA&usqp=CAU",
         "price": "25",
@@ -41,8 +41,8 @@
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
         "category_id": "05",
-        "title" : "Onlice MarketPlace",
-        "name" : "Digital Marketing",
+        "title" : "Based On Onlice MarketPlace",
+        "name" : "Digital Marketing Course",
         "desc" : "Expanding international sales is a key strategy for growth, and marketplaces help retailers achieve this. However, smaller local marketplaces often go unnoticed despite offering unique opportunities to reach new markets and customers.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsQVLg6KVjrsd143U6RMIGYYeX81QhOsUeg&usqp=CAU",
         "price": "20",
@@ -51,8 +51,8 @@
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
         "category_id": "06",
-         "title" : "Video Editing Tutorial",
-         "name" : "Video Editing",
+         "title" : "Professional Video Editing",
+         "name" : "Video Editing Course",
           "desc" : "Create professional quality social media ads, promos videos and much more for your business with InVideo's online video editor. With 5000+ easy-to-edit templates, bundled stock media & music and intuitive editing you'll create more videos, more quickly than ever before.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmCY9PIrN8FuCSBHJSoII0ZMST1cTEenCVA&usqp=CAU",
         "price": "22",
