@@ -11,7 +11,7 @@ const category = require("./data/category.json");
 
 
 app.get('/',(req, res) => {
-    res.send("site is running")
+    res.send("Education site is running")
 })
 
 app.get("/category", (req,res) => {
